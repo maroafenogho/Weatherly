@@ -7,5 +7,6 @@ This app uses:
 - Networking
 - GEOLOCATOR
 - Multiple screens
+- Futures (async and await)
 - and lots more. 
 
